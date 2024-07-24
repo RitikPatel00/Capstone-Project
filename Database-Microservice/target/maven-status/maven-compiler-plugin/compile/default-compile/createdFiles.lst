@@ -1,5 +1,0 @@
-com\wipro\model\ConfigVersion.class
-com\wipro\repository\ConfigVersionRepository.class
-com\wipro\DatabaseMicroserviceApplication.class
-com\wipro\model\Configuration.class
-com\wipro\repository\ConfigurationRepository.class
